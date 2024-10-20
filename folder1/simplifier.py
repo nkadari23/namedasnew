@@ -18,4 +18,4 @@ print("Multiplication:", mul)
 div = a / b
 print("Division:", div)
 
-print("Math operations completed successfully!")
+print("Math operations completed successfully for stashing!")
