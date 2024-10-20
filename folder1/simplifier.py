@@ -17,7 +17,5 @@ print("Multiplication:", mul)
 # Division
 div = a / b
 print("Division:", div)
- HEAD
 
 print("Math operations completed successfully!")
-print-text
